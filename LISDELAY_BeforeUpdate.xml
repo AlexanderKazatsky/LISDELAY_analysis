@@ -1,0 +1,7933 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ThCalibrationTables>
+	<RunType>LIS_TH_SCAN</RunType>
+	<RunNo>
+		<NRuns>1</NRuns>
+		<array name="list_of_run_no">
+			<item>287239</item>
+		</array>
+	</RunNo>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M0H0">EMB00470</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M0H0">EMB00470</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M0H1">EMB00457</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M0H1">EMB00457</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M1H0">EMB00314</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M1H0">EMB00314</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M1H1">EMB00351</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M1H1">EMB00351</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M2H0">EMB00343</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M2H0">EMB00343</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M2H1">EMB00318</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M2H1">EMB00318</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q0M4H1">EMB00272</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q0M4H1">EMB00272</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M0H0">EMB00148</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M0H0">EMB00148</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M0H1">EMB00132</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M0H1">EMB00132</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M1H0">EMB00384</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M1H0">EMB00384</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M1H1">EMB00464</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M1H1">EMB00464</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M2H1">EMB00552</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M2H1">EMB00552</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M3H0">EMB00106</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M3H0">EMB00106</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M4H0">EMB00313</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M4H0">EMB00313</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q1M4H1">EMB00350</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q1M4H1">EMB00350</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M0H0">EMB00347</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M0H0">EMB00347</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M1H0">EMB00420</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M1H0">EMB00420</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M1H1">EMB00423</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M1H1">EMB00423</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M2H0">EMB00165</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M2H0">EMB00165</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M2H1">EMB00191</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M2H1">EMB00191</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M3H0">EMB00093</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M3H0">EMB00093</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M3H1">EMB00117</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M3H1">EMB00117</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M4H0">EMB00479</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M4H0">EMB00479</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q2M4H1">EMB00390</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q2M4H1">EMB00390</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M0H0">EMB00502</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M0H0">EMB00502</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M1H0">EMB00374</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M1H0">EMB00374</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M1H1">EMB00553</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M1H1">EMB00553</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M2H0">EMB00365</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M2H0">EMB00365</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M2H1">EMB00296</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M2H1">EMB00296</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M3H0">EMB00505</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M3H0">EMB00505</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M3H1">EMB00496</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M3H1">EMB00496</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M4H0">EMB00289</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M4H0">EMB00289</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L0Q3M4H1">EMB00263</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L0Q3M4H1">EMB00263</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M0H0">EMB00087</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M0H0">EMB00087</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M0H1">EMB00051</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M0H1">EMB00051</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M1H0">EMB00303</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M1H0">EMB00303</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M1H1">EMB00320</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M1H1">EMB00320</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M2H0">EMB00054</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M2H0">EMB00054</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M2H1">EMB00089</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M2H1">EMB00089</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M3H0">EMB00469</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M3H0">EMB00469</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q0M4H0">EMB00386</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q0M4H0">EMB00386</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M0H0">EMB00375</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M0H0">EMB00375</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M0H1">EMB00228</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M0H1">EMB00228</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M1H0">EMB00328</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M1H0">EMB00328</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M1H1">EMB00332</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M1H1">EMB00332</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M2H0">EMB00040</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M2H0">EMB00040</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M2H1">EMB00001</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M2H1">EMB00001</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M3H0">EMB00114</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M3H0">EMB00114</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M3H1">EMB00177</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M3H1">EMB00177</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M4H0">EMB00090</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M4H0">EMB00090</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q1M4H1">EMB00101</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q1M4H1">EMB00101</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M0H0">EMB00437</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M0H0">EMB00437</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M0H1">EMB00473</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M0H1">EMB00473</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M1H0">EMB00334</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M1H0">EMB00334</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M1H1">EMB00290</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M1H1">EMB00290</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M2H1">EMB00438</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M2H1">EMB00438</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M3H1">EMB00259</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M3H1">EMB00259</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M4H0">EMB00031</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M4H0">EMB00031</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q2M4H1">EMB00042</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q2M4H1">EMB00042</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M0H0">EMB00210</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M0H0">EMB00210</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M0H1">EMB00144</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M0H1">EMB00144</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M1H0">EMB00421</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M1H0">EMB00421</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M1H1">EMB00401</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M1H1">EMB00401</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M2H0">EMB00305</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M2H0">EMB00305</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M2H1">EMB00324</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M2H1">EMB00324</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L1Q3M4H0">EMB00163</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L1Q3M4H0">EMB00163</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q0M2H0">EMB00345</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q0M2H0">EMB00345</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q0M2H1">EMB00362</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q0M2H1">EMB00362</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q0M3H0">EMB00287</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q0M3H0">EMB00287</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q0M4H0">EMB00326</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q0M4H0">EMB00326</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q0M4H1">EMB00292</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q0M4H1">EMB00292</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M0H0">EMB00407</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M0H0">EMB00407</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M0H1">EMB00377</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M0H1">EMB00377</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M1H0">EMB00429</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M1H0">EMB00429</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M1H1">EMB00398</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M1H1">EMB00398</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M2H0">EMB00322</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M2H0">EMB00322</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M2H1">EMB00209</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M2H1">EMB00209</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M3H0">EMB00449</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M3H0">EMB00449</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M3H1">EMB00391</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M3H1">EMB00391</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M4H0">EMB00265</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M4H0">EMB00265</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q1M4H1">EMB00185</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q1M4H1">EMB00185</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q2M4H0">EMB00319</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q2M4H0">EMB00319</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M0H1">EMB00461</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M0H1">EMB00461</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M1H0">EMB00316</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M1H0">EMB00316</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M1H1">EMB00279</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M1H1">EMB00279</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M2H0">EMB00444</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M2H0">EMB00444</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M2H1">EMB00480</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M2H1">EMB00480</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M3H0">EMB00563</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M3H0">EMB00563</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M3H1">EMB00453</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M3H1">EMB00453</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M4H0">EMB00119</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M4H0">EMB00119</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L2Q3M4H1">EMB00109</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L2Q3M4H1">EMB00109</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M0H1">EMB00282</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M0H1">EMB00282</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M1H0">EMB00312</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M1H0">EMB00312</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M1H1">EMB00529</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M1H1">EMB00529</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M2H0">EMB00336</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M2H0">EMB00336</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M4H0">EMB00075</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M4H0">EMB00075</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q0M4H1">EMB00061</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q0M4H1">EMB00061</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M0H0">EMB00081</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M0H0">EMB00081</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M0H1">EMB00094</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M0H1">EMB00094</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M1H0">EMB00540</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M1H0">EMB00540</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M1H1">EMB00520</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M1H1">EMB00520</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M2H0">EMB00477</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M2H0">EMB00477</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M2H1">EMB00447</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M2H1">EMB00447</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M3H0">EMB00482</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M3H0">EMB00482</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M3H1">EMB00385</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M3H1">EMB00385</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q1M4H1">EMB00489</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q1M4H1">EMB00489</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M0H0">EMB00358</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M0H0">EMB00358</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M0H1">EMB00329</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M0H1">EMB00329</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M1H0">EMB00243</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M1H0">EMB00243</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M1H1">EMB00233</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M1H1">EMB00233</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M2H0">EMB00280</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M2H0">EMB00280</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M2H1">EMB00321</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M2H1">EMB00321</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M3H0">EMB00269</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M3H0">EMB00269</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M3H1">EMB00271</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M3H1">EMB00271</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q2M4H0">EMB00187</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q2M4H0">EMB00187</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M0H0">EMB00537</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M0H0">EMB00537</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M0H1">EMB00542</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M0H1">EMB00542</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M1H0">EMB00168</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M1H0">EMB00168</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M1H1">EMB00219</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M1H1">EMB00219</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M2H0">EMB00567</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M2H0">EMB00567</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M2H1">EMB00284</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M2H1">EMB00284</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M4H0">EMB00393</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M4H0">EMB00393</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T1L3Q3M4H1">EMB00484</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T1L3Q3M4H1">EMB00484</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M0H0">EMB00357</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M0H0">EMB00357</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M0H1">EMB00311</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M0H1">EMB00311</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M1H0">EMB00046</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M1H0">EMB00046</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M1H1">EMB00029</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M1H1">EMB00029</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M2H0">EMB00281</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M2H0">EMB00281</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M2H1">EMB00368</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M2H1">EMB00368</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M3H0">EMB00283</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M3H0">EMB00283</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M4H0">EMB00307</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M4H0">EMB00307</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q0M4H1">EMB00310</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q0M4H1">EMB00310</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M0H0">EMB00530</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M0H0">EMB00530</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M0H1">EMB00556</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M0H1">EMB00556</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M1H0">EMB00331</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M1H0">EMB00331</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M1H1">EMB00485</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M1H1">EMB00485</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M2H0">EMB00156</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M2H0">EMB00156</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M2H1">EMB00255</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M2H1">EMB00255</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M4H0">EMB00337</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M4H0">EMB00337</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q1M4H1">EMB00262</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q1M4H1">EMB00262</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M0H0">EMB00079</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M0H0">EMB00079</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M0H1">EMB00143</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M0H1">EMB00143</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M1H0">EMB00194</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M1H0">EMB00194</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M1H1">EMB00218</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M1H1">EMB00218</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M2H0">EMB00273</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M2H0">EMB00273</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M2H1">EMB00170</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M2H1">EMB00170</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M3H1">EMB00238</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M3H1">EMB00238</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M4H0">EMB00215</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M4H0">EMB00215</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q2M4H1">EMB00235</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q2M4H1">EMB00235</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M0H0">EMB00504</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M0H0">EMB00504</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M0H1">EMB00441</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M0H1">EMB00441</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M1H0">EMB00532</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M1H0">EMB00532</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M1H1">EMB00573</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M1H1">EMB00573</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M2H0">EMB00261</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M2H0">EMB00261</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M2H1">EMB00207</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M2H1">EMB00207</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M3H0">EMB00566</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M3H0">EMB00566</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M3H1">EMB00521</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M3H1">EMB00521</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M4H0">EMB00339</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M4H0">EMB00339</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L0Q3M4H1">EMB00308</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L0Q3M4H1">EMB00308</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M0H0">EMB00486</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M0H0">EMB00486</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M0H1">EMB00475</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M0H1">EMB00475</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M1H0">EMB00131</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M1H0">EMB00131</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M1H1">EMB00122</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M1H1">EMB00122</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M2H0">EMB00389</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M2H0">EMB00389</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M2H1">EMB00387</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M2H1">EMB00387</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M3H0">EMB00149</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M3H0">EMB00149</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M3H1">EMB00266</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M3H1">EMB00266</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M4H0">EMB00224</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M4H0">EMB00224</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q0M4H1">EMB00270</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q0M4H1">EMB00270</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M0H0">EMB00355</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M0H0">EMB00355</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M0H1">EMB00333</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M0H1">EMB00333</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M1H0">EMB00158</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M1H0">EMB00158</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M1H1">EMB00184</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M1H1">EMB00184</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M2H0">EMB00285</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M2H0">EMB00285</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M2H1">EMB00395</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M2H1">EMB00395</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M3H0">EMB00425</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M3H0">EMB00425</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q1M3H1">EMB00348</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q1M3H1">EMB00348</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M0H0">EMB00200</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M0H0">EMB00200</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M0H1">EMB00183</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M0H1">EMB00183</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M1H0">EMB00188</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M1H0">EMB00188</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M1H1">EMB00181</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M1H1">EMB00181</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M3H0">EMB00367</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M3H0">EMB00367</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M3H1">EMB00277</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M3H1">EMB00277</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M4H0">EMB00162</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M4H0">EMB00162</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q2M4H1">EMB00323</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q2M4H1">EMB00323</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M0H0">EMB00300</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M0H0">EMB00300</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M0H1">EMB00232</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M0H1">EMB00232</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M1H0">EMB00455</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M1H0">EMB00455</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M1H1">EMB00547</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M1H1">EMB00547</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M2H0">EMB00048</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M2H0">EMB00048</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M2H1">EMB00047</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M2H1">EMB00047</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M3H0">EMB00055</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M3H0">EMB00055</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M3H1">EMB00064</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M3H1">EMB00064</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M4H0">EMB00234</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M4H0">EMB00234</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L1Q3M4H1">EMB00412</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L1Q3M4H1">EMB00412</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M0H0">EMB00113</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M0H0">EMB00113</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M0H1">EMB00141</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M0H1">EMB00141</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M1H0">EMB00140</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M1H0">EMB00140</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M1H1">EMB00102</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M1H1">EMB00102</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M2H0">EMB00021</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M2H0">EMB00021</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M2H1">EMB00037</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M2H1">EMB00037</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M4H0">EMB00018</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M4H0">EMB00018</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q0M4H1">EMB00025</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q0M4H1">EMB00025</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M0H0">EMB00226</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M0H0">EMB00226</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M0H1">EMB00551</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M0H1">EMB00551</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M1H0">EMB00400</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M1H0">EMB00400</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M1H1">EMB00402</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M1H1">EMB00402</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M2H0">EMB00483</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M2H0">EMB00483</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M2H1">EMB00396</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M2H1">EMB00396</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M3H0">EMB00518</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M3H0">EMB00518</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q1M3H1">EMB00468</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q1M3H1">EMB00468</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M0H0">EMB00137</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M0H0">EMB00137</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M0H1">EMB00127</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M0H1">EMB00127</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M2H0">EMB00086</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M2H0">EMB00086</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M2H1">EMB00060</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M2H1">EMB00060</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M3H0">EMB00276</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M3H0">EMB00276</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M3H1">EMB00236</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M3H1">EMB00236</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M4H0">EMB00213</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M4H0">EMB00213</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q2M4H1">EMB00225</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q2M4H1">EMB00225</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M0H0">EMB00531</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M0H0">EMB00531</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M0H1">EMB00527</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M0H1">EMB00527</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M1H0">EMB00451</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M1H0">EMB00451</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M1H1">EMB00208</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M1H1">EMB00208</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M2H0">EMB00373</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M2H0">EMB00373</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M2H1">EMB00417</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M2H1">EMB00417</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M3H0">EMB00499</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M3H0">EMB00499</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M3H1">EMB00514</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M3H1">EMB00514</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L2Q3M4H1">EMB00078</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L2Q3M4H1">EMB00078</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M0H0">EMB00244</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M0H0">EMB00244</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M0H1">EMB00268</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M0H1">EMB00268</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M1H0">EMB00139</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M1H0">EMB00139</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M2H0">EMB00053</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M2H0">EMB00053</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M2H1">EMB00151</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M2H1">EMB00151</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M4H0">EMB00012</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M4H0">EMB00012</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q0M4H1">EMB00028</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q0M4H1">EMB00028</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M0H0">EMB00405</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M0H0">EMB00405</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M0H1">EMB00415</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M0H1">EMB00415</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M1H0">EMB00406</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M1H0">EMB00406</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M1H1">EMB00432</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M1H1">EMB00432</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M2H0">EMB00216</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M2H0">EMB00216</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M3H0">EMB00096</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M3H0">EMB00096</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q1M3H1">EMB00099</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q1M3H1">EMB00099</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M0H0">EMB00254</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M0H0">EMB00254</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M0H1">EMB00245</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M0H1">EMB00245</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M1H1">EMB00155</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M1H1">EMB00155</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M2H0">EMB00135</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M2H0">EMB00135</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M2H1">EMB00160</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M2H1">EMB00160</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M3H0">EMB00125</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M3H0">EMB00125</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M3H1">EMB00115</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M3H1">EMB00115</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q2M4H1">EMB00057</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q2M4H1">EMB00057</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M0H0">EMB00509</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M0H0">EMB00509</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M0H1">EMB00478</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M0H1">EMB00478</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M1H0">EMB00501</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M1H0">EMB00501</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M1H1">EMB00507</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M1H1">EMB00507</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M2H0">EMB00248</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M2H0">EMB00248</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M2H1">EMB00330</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M2H1">EMB00330</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M3H0">EMB00522</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M3H0">EMB00522</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M3H1">EMB00557</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M3H1">EMB00557</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M4H0">EMB00302</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M4H0">EMB00302</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T2L3Q3M4H1">EMB00293</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T2L3Q3M4H1">EMB00293</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M0H0">EMB00204</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M0H0">EMB00204</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M1H0">EMB00222</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M1H0">EMB00222</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M2H0">EMB00172</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M2H0">EMB00172</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M2H1">EMB00221</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M2H1">EMB00221</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M3H0">EMB00121</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M3H0">EMB00121</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M3H1">EMB00134</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M3H1">EMB00134</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M4H0">EMB00178</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M4H0">EMB00178</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M5H0">EMB00072</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M5H0">EMB00072</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q0M5H1">EMB00105</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q0M5H1">EMB00105</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M0H0">EMB00256</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M0H0">EMB00256</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M0H1">EMB00450</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M0H1">EMB00450</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M1H0">EMB00411</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M1H0">EMB00411</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M1H1">EMB00372</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M1H1">EMB00372</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M2H1">EMB00426</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M2H1">EMB00426</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M3H0">EMB00403</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M3H0">EMB00403</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M3H1">EMB00431</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M3H1">EMB00431</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M4H0">EMB00416</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M4H0">EMB00416</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M4H1">EMB00382</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M4H1">EMB00382</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q1M5H1">EMB00315</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q1M5H1">EMB00315</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M0H0">EMB00107</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M0H0">EMB00107</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M0H1">EMB00030</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M0H1">EMB00030</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M1H0">EMB00091</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M1H0">EMB00091</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M1H1">EMB00097</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M1H1">EMB00097</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M2H0">EMB00108</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M2H0">EMB00108</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M2H1">EMB00111</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M2H1">EMB00111</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M3H0">EMB00239</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M3H0">EMB00239</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M3H1">EMB00231</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M3H1">EMB00231</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M4H0">EMB00161</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M4H0">EMB00161</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q2M4H1">EMB00223</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q2M4H1">EMB00223</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M0H0">EMB00394</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M0H0">EMB00394</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M0H1">EMB00466</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M0H1">EMB00466</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M1H0">EMB00462</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M1H0">EMB00462</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M1H1">EMB00476</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M1H1">EMB00476</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M2H0">EMB00474</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M2H0">EMB00474</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M2H1">EMB00380</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M2H1">EMB00380</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M3H0">EMB00378</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M3H0">EMB00378</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M3H1">EMB00465</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M3H1">EMB00465</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M4H0">EMB00492</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M4H0">EMB00492</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M4H1">EMB00493</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M4H1">EMB00493</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M5H0">EMB00427</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M5H0">EMB00427</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L0Q3M5H1">EMB00430</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L0Q3M5H1">EMB00430</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M0H0">EMB00341</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M0H0">EMB00341</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M1H0">EMB00159</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M1H0">EMB00159</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M1H1">EMB00295</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M1H1">EMB00295</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M2H0">EMB00154</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M2H0">EMB00154</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M2H1">EMB00246</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M2H1">EMB00246</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M4H0">EMB00251</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M4H0">EMB00251</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M5H0">EMB00344</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M5H0">EMB00344</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q0M5H1">EMB00325</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q0M5H1">EMB00325</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M0H0">EMB00363</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M0H0">EMB00363</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M0H1">EMB00278</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M0H1">EMB00278</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M2H0">EMB00490</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M2H0">EMB00490</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M2H1">EMB00541</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M2H1">EMB00541</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M3H0">EMB00397</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M3H0">EMB00397</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M4H0">EMB00481</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M4H0">EMB00481</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M4H1">EMB00463</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M4H1">EMB00463</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M5H0">EMB00448</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M5H0">EMB00448</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q1M5H1">EMB00404</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q1M5H1">EMB00404</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M0H0">EMB00077</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M0H0">EMB00077</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M0H1">EMB00098</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M0H1">EMB00098</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M1H0">EMB00084</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M1H0">EMB00084</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M1H1">EMB00062</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M1H1">EMB00062</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M2H0">EMB00443</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M2H0">EMB00443</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M2H1">EMB00017</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M2H1">EMB00017</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M3H0">EMB00252</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M3H0">EMB00252</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M3H1">EMB00212</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M3H1">EMB00212</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M4H0">EMB00067</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M4H0">EMB00067</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M4H1">EMB00088</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M4H1">EMB00088</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M5H0">EMB00206</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M5H0">EMB00206</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q2M5H1">EMB00180</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q2M5H1">EMB00180</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M0H0">EMB00349</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M0H0">EMB00349</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M1H0">EMB00570</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M1H0">EMB00570</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M1H1">EMB00525</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M1H1">EMB00525</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M2H0">EMB00503</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M2H0">EMB00503</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M2H1">EMB00488</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M2H1">EMB00488</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M3H0">EMB00436</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M3H0">EMB00436</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M3H1">EMB00528</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M3H1">EMB00528</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L1Q3M4H0">EMB00564</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L1Q3M4H0">EMB00564</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M0H0">EMB00035</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M0H0">EMB00035</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M0H1">EMB00036</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M0H1">EMB00036</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M1H0">EMB00013</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M1H0">EMB00013</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M2H0">EMB00074</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M2H0">EMB00074</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M2H1">EMB00065</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M2H1">EMB00065</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M3H0">EMB00116</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M3H0">EMB00116</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M3H1">EMB00110</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M3H1">EMB00110</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M4H0">EMB00164</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M4H0">EMB00164</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M4H1">EMB00193</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M4H1">EMB00193</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M5H0">EMB00257</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M5H0">EMB00257</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q0M5H1">EMB00201</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q0M5H1">EMB00201</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M0H0">EMB00539</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M0H0">EMB00539</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M0H1">EMB00550</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M0H1">EMB00550</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M1H0">EMB00294</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M1H0">EMB00294</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M1H1">EMB00123</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M1H1">EMB00123</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M2H0">EMB00571</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M2H0">EMB00571</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M3H0">EMB00145</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M3H0">EMB00145</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M3H1">EMB00460</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M3H1">EMB00460</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M4H0">EMB00435</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M4H0">EMB00435</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M4H1">EMB00364</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M4H1">EMB00364</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M5H0">EMB00059</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M5H0">EMB00059</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q1M5H1">EMB00104</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q1M5H1">EMB00104</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M1H1">EMB00049</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M1H1">EMB00049</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M2H0">EMB00118</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M2H0">EMB00118</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M2H1">EMB00146</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M2H1">EMB00146</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M4H0">EMB00153</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M4H0">EMB00153</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M4H1">EMB00120</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M4H1">EMB00120</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M5H0">EMB00083</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M5H0">EMB00083</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q2M5H1">EMB00092</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q2M5H1">EMB00092</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M0H0">EMB00419</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M0H0">EMB00419</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M1H0">EMB00413</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M1H0">EMB00413</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M1H1">EMB00379</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M1H1">EMB00379</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M2H0">EMB00510</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M2H0">EMB00510</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M2H1">EMB00523</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M2H1">EMB00523</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M3H0">EMB00418</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M3H0">EMB00418</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M3H1">EMB00458</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M3H1">EMB00458</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M4H0">EMB00544</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M4H0">EMB00544</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M4H1">EMB00569</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M4H1">EMB00569</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M5H0">EMB00495</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M5H0">EMB00495</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L2Q3M5H1">EMB00559</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L2Q3M5H1">EMB00559</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M0H0">EMB00014</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M0H0">EMB00014</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M1H0">EMB00026</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M1H0">EMB00026</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M1H1">EMB00019</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M1H1">EMB00019</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M2H0">EMB00041</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M2H0">EMB00041</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M2H1">EMB00027</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M2H1">EMB00027</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M3H0">EMB00038</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M3H0">EMB00038</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M3H1">EMB00045</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M3H1">EMB00045</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M4H0">EMB00112</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M4H0">EMB00112</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M4H1">EMB00150</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M4H1">EMB00150</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M5H0">EMB00152</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M5H0">EMB00152</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q0M5H1">EMB00129</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q0M5H1">EMB00129</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M0H0">EMB00370</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M0H0">EMB00370</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M0H1">EMB00360</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M0H1">EMB00360</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M1H0">EMB00142</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M1H0">EMB00142</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M1H1">EMB00440</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M1H1">EMB00440</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M2H0">EMB00124</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M2H0">EMB00124</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M2H1">EMB00133</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M2H1">EMB00133</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M3H0">EMB00561</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M3H0">EMB00561</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M3H1">EMB00511</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M3H1">EMB00511</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M4H0">EMB00497</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M4H0">EMB00497</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M4H1">EMB00572</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M4H1">EMB00572</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M5H0">EMB00576</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M5H0">EMB00576</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q1M5H1">EMB00549</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q1M5H1">EMB00549</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M0H0">EMB00020</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M0H0">EMB00020</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M1H0">EMB00033</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M1H0">EMB00033</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M1H1">EMB00022</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M1H1">EMB00022</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M3H0">EMB00267</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M3H0">EMB00267</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M3H1">EMB00275</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M3H1">EMB00275</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M5H0">EMB00044</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M5H0">EMB00044</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q2M5H1">EMB00023</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q2M5H1">EMB00023</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M0H0">EMB00546</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M0H0">EMB00546</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M0H1">EMB00555</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M0H1">EMB00555</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M1H0">EMB00445</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M1H0">EMB00445</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M1H1">EMB00454</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M1H1">EMB00454</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x7b</CLKDEL5>
+				<CLKDEL6>0x1ae</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M2H0">EMB00366</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M2H0">EMB00366</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M2H1">EMB00299</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M2H1">EMB00299</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M4H0">EMB00543</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M4H0">EMB00543</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x52</CLKDEL5>
+				<CLKDEL6>0x185</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M4H1">EMB00487</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M4H1">EMB00487</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB</Table>
+		<ProdDBId location="T3L3Q3M5H0">EMB00439</ProdDBId>
+		<ScanResults>
+			<LIS_PULSELEN>0x0</LIS_PULSELEN>
+			<LIS_INPHASE>0x0</LIS_INPHASE>
+		</ScanResults>
+	</Entry>
+	<Entry>
+		<Table>TH_CALIB_MB_DATAGBT</Table>
+		<ProdDBId location="T3L3Q3M5H0">EMB00439</ProdDBId>
+		<ScanResults>
+			<GBTData>
+				<GBT_N>3</GBT_N>
+				<CLKDEL5>0x29</CLKDEL5>
+				<CLKDEL6>0x15c</CLKDEL6>
+			</GBTData>
+		</ScanResults>
+	</Entry>
+</ThCalibrationTables>
